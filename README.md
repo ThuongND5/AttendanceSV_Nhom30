@@ -6,7 +6,7 @@ Giao diện còn xấu
 
 Chưa ràng buộc dữ liệu cũng như tạo liên kết cho dữ liệu
 
-file nộp gồm 
+file nộp gồm :
 1.link github 
 2.video nộp
 3.Báo cáo kết quả trong tệp readme
